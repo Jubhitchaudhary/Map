@@ -34,7 +34,6 @@ Here's a walkthrough of implemented user stories:
 [<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://www.loom.com/share/2aaa75238892409b9f5bdc74fcbed6c5?sid=0746b967-5670-4c66-9572-70fc69730cad)
 
 ## Notes
-Describe any challenges encountered while building the app.
 Certainly making linking detail view and chatrts with exhibiton was quite difficult to run it.
 
 ## License
