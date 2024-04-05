@@ -2,7 +2,7 @@
 
 Submitted by: **Jubhit Chaudhary**
 
-This web app: **data dashboard that provides an at-a-glance summary of information gathered from a public API**
+This web app: **dashboard with graphs using a popular data visualization library, giving users an at-a-glance view of the data from your chosen API**
 
 Time spent: **10** hours spent in total
 
