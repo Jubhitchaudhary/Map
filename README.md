@@ -30,8 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-
-[<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://www.loom.com/share/2aaa75238892409b9f5bdc74fcbed6c5?sid=0746b967-5670-4c66-9572-70fc69730cad)
+https://www.loom.com/share/83674d7773814b46adca1676093844c0?sid=8da214bf-4ba3-486a-bffc-3d8470b02c05
 
 ## Notes
 Certainly linking detail view and charts with exhibition was quite difficult to run it.
